@@ -1,0 +1,16 @@
+C:\Users\ToT\source\repos\testopenfile\testopenfile\bin\Debug\net8.0-windows\testopenfile.exe
+C:\Users\ToT\source\repos\testopenfile\testopenfile\bin\Debug\net8.0-windows\testopenfile.deps.json
+C:\Users\ToT\source\repos\testopenfile\testopenfile\bin\Debug\net8.0-windows\testopenfile.runtimeconfig.json
+C:\Users\ToT\source\repos\testopenfile\testopenfile\bin\Debug\net8.0-windows\testopenfile.dll
+C:\Users\ToT\source\repos\testopenfile\testopenfile\bin\Debug\net8.0-windows\testopenfile.pdb
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\testopenfile.Form1.resources
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\testopenfile.csproj.GenerateResource.cache
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\testopenfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\testopenfile.AssemblyInfoInputs.cache
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\testopenfile.AssemblyInfo.cs
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\testopenfile.csproj.CoreCompileInputs.cache
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\testopenfile.dll
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\refint\testopenfile.dll
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\testopenfile.pdb
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\testopenfile.genruntimeconfig.cache
+C:\Users\ToT\source\repos\testopenfile\testopenfile\obj\Debug\net8.0-windows\ref\testopenfile.dll
